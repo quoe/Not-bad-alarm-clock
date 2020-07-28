@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.049,=C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.pas=D:\Embarcadero RAD Studio XE2_App\Not bad alarm clock\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.fmx=D:\Embarcadero RAD Studio XE2_App\Not bad alarm clock\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,C:\Users\Roman\Documents\RAD Studio\Projects\Project1.dproj=D:\Embarcadero RAD Studio XE2_App\Not bad alarm clock\NotBadAlarmClock.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
